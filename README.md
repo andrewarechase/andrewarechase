@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Chase</h1>
-<h3 align="center">iOS & macOS Software Developer by day and macOS Malware Hunter at Night!</h3>
+<h3 align="center">iOS & macOS Software Developer by day and macOS security researcher at Night!</h3>
 
 - 🔭 I’m currently working on **creating malware analysis course, developing iOS and macOS apps, macOS malware analysis**
 
