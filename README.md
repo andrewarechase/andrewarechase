@@ -15,7 +15,6 @@
 
   <h3 align="left">My Projects:</h3>
   - https://github.com/andrewarechase/WarCardGame
-  
   - https://github.com/andrewarechase/Menu
 
 <h3 align="left">Connect with me:</h3>
