@@ -22,9 +22,9 @@
 
 
 <h3 align="left">My Projects:</h3>
-- 🦠 AMMAB**
+- 🦠 **AMMAB**
 
-- 🌱 WarCardGame App**
+- 🌱 **WarCardGame App**
   https://github.com/andrewarechase/WarCardGame
 
 <h3 align="left">Languages and Tools:</h3>
