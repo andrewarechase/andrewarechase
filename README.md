@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrew Chase</h1>
 <h3 align="center">iOS & macOS Software Developer by day and macOS security researcher at Night!</h3>
 
+
+
+<h1 align="center">Breakdown of What I am About</h1>
 - 🔭 I’m currently working on **creating malware analysis courses, developing iOS and macOS apps, security tools, macOS malware security research**
 
 - 🌱 I’m currently learning **iOS & macOS development and malware analysis**
