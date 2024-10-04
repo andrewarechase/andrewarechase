@@ -10,6 +10,8 @@
 - 💬 Ask me about **swift, python, malware analysis, macOS security, machine learning, and software development**
 
 - ⚡ Fun fact **The first time I was ever in a plane was when I went Skydiving!!**
+  <img width="989" alt="SkyDive3" src="https://github.com/user-attachments/assets/84686848-cb21-48c5-819d-3defbfbcd5a5">
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
