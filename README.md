@@ -6,7 +6,7 @@
 -I am the Founder of MalwareXology LLC. I have a dynamic background in the realm of cyberspace. My experience touches on various areas of tech, from IT Administration, software development & engineering, malware analysis, security research, and designated corporate security presenter. I am highly adaptable self-starter, with knowledge that stems from industry experience working with MSPs and environmental government consulting agency. I am highly passionate about keeping all things macOS and iOS secure, I enjoy spending my free time studying mac malware, programing security tools and applications, and creating cybersecurity content on YouTube. My mission is to arm individuals and organizations with the knowledge they need to defend against cyber threats. I believe in the power of education to create a safer digital world.
 
 
-- 🔭 I’m currently working on **creating malware analysis courses, developing iOS and macOS apps, security tools, macOS malware security research**
+- 🔭 I’m currently working on: **Artificial Intelligence Reasearch & Development, Machine Learning, creating malware analysis courses, developing iOS and macOS apps, security tools, macOS malware security research**
 
 - 🌱 I’m currently learning **iOS & macOS development and malware analysis**
 
