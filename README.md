@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on: **Artificial Intelligence Reasearch & Development, Machine Learning, creating malware analysis courses, developing iOS and macOS apps, security tools, macOS malware security research**
 
-- 🌱 I’m currently learning **iOS & macOS development and malware analysis**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, iOS & macOS development, malware analysis**
 
-- 🤝 I’m looking for help with **iOS and macOS development: security tools and applications**
+- 🤝 I’m looking seeking opportunties with **Artificial Intelligence, Machine Learning, iOS and macOS development: security tools and applications**
 
-- 💬 Ask me about **swift, python, malware analysis, macOS security, machine learning, and software development**
+- 💬 Ask me about **AI, swift, python, malware analysis, macOS security, machine learning, and software development**
 
-- ⚡ Fun fact **The first time I was ever in a plane was when I went Skydiving!!**
+- ⚡ Fun fact about me: **The first time I was ever in a plane was when I went Skydiving!!**
   <img width="989" alt="SkyDive3" src="https://github.com/user-attachments/assets/84686848-cb21-48c5-819d-3defbfbcd5a5">
  
 
@@ -37,6 +37,8 @@
 - 🍎🛠️ **Menu App**
 
 - 🍎🛠️ **Restaurant App**
+
+-🧠🤖 **Titanic Data AI Machine Learning Project**
 
 
 
